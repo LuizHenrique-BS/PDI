@@ -6,4 +6,4 @@ $ pip install -r requirements.txt
 
 # Executando o arquivo
 
-python3 convolutions.py --image 3d_pokemon.png
+python3 convolutions.py --image hl2.png
